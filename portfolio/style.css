@@ -1,0 +1,21 @@
+.one{
+    color:purple;
+    background-color:black;
+}
+.four{
+    color:white;
+    background-color:black;
+}
+.ul:hover,li:hover{
+    color:yellow;
+
+}
+.three:hover{
+    background-color:black;
+    color:gray;
+}
+.two:hover{
+    color:black;
+    background-color:gray;
+    
+}
